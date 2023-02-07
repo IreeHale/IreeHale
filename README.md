@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Redux, TypeScript, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://ireehale.netlify.app/](https://ireehale.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.iree-hale.com/](https://www.iree-hale.com/)
 
 - 💬 Ask me about **JavaScript. React,**
 
