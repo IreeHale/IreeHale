@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ireehale&label=Profile%20views&color=0e75b6&style=flat" alt="ireehale" /> </p>
 
-- 🌱 I’m currently learning **React and Redux, TypeScript, Firebase**
+- 🌱 I’m currently learning **TypeScript, NextJ, and  Java **
 
 - 👨‍💻 All of my projects are available at [https://www.iree-hale.com/](https://www.iree-hale.com/)
 
-- 💬 Ask me about **JavaScript. React,**
+- 💬 Ask me about **JavaScript. React, and NextJS**
 
 - 📫 How to reach me **haleiree1@gmail.com**
 
